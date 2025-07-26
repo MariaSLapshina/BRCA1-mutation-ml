@@ -1,0 +1,8 @@
+# Ignore large dataset
+data/variant_summary.txt
+*.pkl
+*.npy
+*.log
+*.pt
+*.h5
+.ipynb_checkpoints/
